@@ -3,6 +3,7 @@ import CleanForm from "./components/cleanForm";
 import "./App.css";
 import ExpensiveCalculation from "./components/ExpensiveCalculator";
 import Parent from "./components/parent"; 
+import  PostForm  from "./components/forms/PostForm";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <CleanForm />
       <ExpensiveCalculation />
       <Parent />
+      <PostForm />
 
      
     </div>

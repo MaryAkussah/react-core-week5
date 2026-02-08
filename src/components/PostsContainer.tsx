@@ -1,5 +1,5 @@
 import { useState } from "react";
-import PostForm from "./PostForm";
+import PostForm from "./forms/PostForm";
 import PostList from "./PostList";
 
 type Post = {
